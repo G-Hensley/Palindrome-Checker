@@ -4,7 +4,7 @@ It tests if the input is a word or not.
 
 This project was part of the Javascript Algorithms and Data Structures Certifcation from freeCodeCamp.
 
-Technologies used:
+# Technologies used:
   HTML
   CSS
   Javascript
